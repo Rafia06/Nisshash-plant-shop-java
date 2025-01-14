@@ -62,7 +62,7 @@ The Nisshash Plant Shop is a comprehensive application for managing plant sales,
 - **Project Launch** 
 <p align="center">
   <span>
-    <img src="src/Images/1.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture1.png" alt="Original Image" width="400">
   </span>
     <br>
     <em>Fig 1: Starting Window </em>
