@@ -70,107 +70,134 @@ The Nisshash Plant Shop is a comprehensive application for managing plant sales,
 
 <p align="center">
   <span>
-    <img src="src/Images/2.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture2.png" alt="Original Image" width="400">
   </span>
     <br>
     <em>Fig 2: Main Page </em>
 </p>
 
-<p align="center">
+<p align="left">
   <span>
-    <img src="src/Images/3.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture4.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 3: Sign In Window </em>
+    <em>Fig 3: Login Window </em>
+</p>
+<p align="right">
+  <span>
+    <img src="https://github.com/Rafia06/image/blob/main/Picture5.png" alt="Original Image" width="400">
+  </span>
+    <br>
+    <em>Fig 4: Register Window </em>
 </p>
 
 - **Admin Panel**
 <p align="center">
   <span>
-    <img src="src/Images/7.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture21.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 4: Admin Healthcare </em>
+    <em>Fig 5: Admin Main Page </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/8.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture22.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 5: Admin Abuse Reports </em>
+    <em>Fig 6: Collection info </em>
+</p>
+<p align="center">
+  <span>
+    <img src="https://github.com/Rafia06/image/blob/main/Picture24.png" alt="Original Image" width="400">
+  </span>
+    <br>
+    <em>Fig 7: Buyer List </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/9.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture23.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 6: Admin Adopter List </em>
+    <em>Fig 8: Delivery List </em>
 </p>
 
 - **User Panel**
 <p align="center">
   <span>
-    <img src="src/Images/10.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture6.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 7: View Veterinarians </em>
+    <em>Fig 9: View Products </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/11.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture7.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 8: View Animals and Adopt </em>
+    <em>Fig 10: Product details </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/12.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture8.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 9: Report Abuse </em>
+    <em>Fig 11: Cart </em>
+</p>
+
+<p align="left">
+  <span>
+    <img src="https://github.com/Rafia06/image/blob/main/Picture9.png" alt="Original Image" width="400">
+  </span>
+    <br>
+    <em>Fig 12: Delivery info </em>
+</p>
+<p align="right">
+  <span>
+    <img src="https://github.com/Rafia06/image/blob/main/Picture10.png" alt="Original Image" width="400">
+  </span>
+    <br>
+    <em>Fig 13: Confirmation </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/13.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture11.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 10: Our Team </em>
+    <em>Fig 14: Feedback </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/14.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture13.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 11: Help Window </em>
-</p>
-
-- **Rescuer Panel**
-<p align="center">
-  <span>
-    <img src="src/Images/4.png" alt="Original Image" width="400">
-  </span>
-    <br>
-    <em>Fig 12: Add Animal Category </em>
+    <em>Fig 15: More </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/5.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture15.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 13: View Adopters </em>
+    <em>Fig 16: Plant care guideline </em>
 </p>
 
 <p align="center">
   <span>
-    <img src="src/Images/6.png" alt="Original Image" width="400">
+    <img src="https://github.com/Rafia06/image/blob/main/Picture16.png" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 14: Arrival of Animal </em>
+    <em>Fig 17: Plant quiz</em>
+</p>
+<p align="center">
+  <span>
+    <img src="https://github.com/Rafia06/image/blob/main/Picture19.png" alt="Original Image" width="400">
+  </span>
+    <br>
+    <em>Fig 18: Donation form</em>
 </p>
