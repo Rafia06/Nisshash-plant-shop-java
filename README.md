@@ -76,14 +76,14 @@ The Nisshash Plant Shop is a comprehensive application for managing plant sales,
     <em>Fig 2: Main Page </em>
 </p>
 
-<p align="left">
+<p align="center">
   <span>
     <img src="https://github.com/Rafia06/image/blob/main/Picture4.png" alt="Original Image" width="400">
   </span>
     <br>
     <em>Fig 3: Login Window </em>
 </p>
-<p align="right">
+<p align="center">
   <span>
     <img src="https://github.com/Rafia06/image/blob/main/Picture5.png" alt="Original Image" width="400">
   </span>
@@ -148,14 +148,14 @@ The Nisshash Plant Shop is a comprehensive application for managing plant sales,
     <em>Fig 11: Cart </em>
 </p>
 
-<p align="left">
+<p align="center">
   <span>
     <img src="https://github.com/Rafia06/image/blob/main/Picture9.png" alt="Original Image" width="400">
   </span>
     <br>
     <em>Fig 12: Delivery info </em>
 </p>
-<p align="right">
+<p align="center">
   <span>
     <img src="https://github.com/Rafia06/image/blob/main/Picture10.png" alt="Original Image" width="400">
   </span>
